@@ -1,0 +1,11 @@
+.todoListContainer{
+    width: 450px;
+}
+.addTodoContainer{
+    display: flex;
+    justify-content: space-between;
+}
+.addTodoContainer input{
+ width: 80%;
+ padding: 5px;
+}

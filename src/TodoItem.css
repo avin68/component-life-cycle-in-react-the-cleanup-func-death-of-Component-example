@@ -1,0 +1,15 @@
+.todoItemContainer{
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    margin: 10px 0;
+}
+.todoItemContainer button{ 
+    all : unset;
+    background-color: lightgray;
+    border-radius: 5px;
+    padding: 0 10px;
+    height: 40px;
+}
